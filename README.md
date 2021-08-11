@@ -1,4 +1,4 @@
-### Hi viewer 👋👋👋 
+### Greetings 👋👋👋 
 ### This is Kishore Kumar, Test Automation Engineer from India, a passionate learner and a SDET aspirant who is looking for opportunities in QA industry.
 I work extensively on various web applications and embedded software device automation. 
 
