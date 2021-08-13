@@ -13,6 +13,6 @@
 - ⚡ Fun fact: loves to binge-watch movies and tv shows, Foodie, Trying to wake before 6  ;)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kishorethiru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kishorekumar-sdet/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kishorethiru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kishorekumar-sdet/)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kishorethiru)  
