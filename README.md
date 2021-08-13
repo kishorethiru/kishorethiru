@@ -5,7 +5,7 @@ I work extensively on developing and maintaining test frameworks and having an o
 - 🔭 I’m currently working on enhancing my problem solving abilities, started with Data Structures and Algorithms using Java
 - 👯 I’m looking for opportunities in a product based company.
 - 📫 How to reach me 
--     <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}"/>https://www.linkedin.com/in/kishorekumar-sdet/
+-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>https://www.linkedin.com/in/kishorekumar-sdet/
 - 😄 Pronouns: He/Him
 
 
