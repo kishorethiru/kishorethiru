@@ -13,7 +13,7 @@
 - ⚡ Fun fact: loves to binge-watch movies and tv shows, Foodie, Trying to wake before 6  ;)  
 
 
-### Technical Skills
+### Technologies & Tools
 
 ✔ Frond-End-Automation(UI)  - Selenium Webdriver with Java. <br>
 ✔ Back-End-Automation(API)  - Restful Automation with Postman, RestAssured.<br>
