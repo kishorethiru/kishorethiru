@@ -32,5 +32,20 @@
 ### Reach me at,<a href="https://www.linkedin.com/in/kishorekumar-sdet/" rel="nofollow noreferrer">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> &nbsp;
    
    
-
+### Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kishorethiru)  
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorethiru&show_icons=true&theme=vue-dark)
+
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorethiru)
+
+## Currently Working on
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kishorethiru&repo=DSA-Practices&theme=bear)
+
+
+
+
+
