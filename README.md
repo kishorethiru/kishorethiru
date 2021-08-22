@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 🤔 I’m looking for help with landing on a product organization as an <b>SDET</b> 
 - 💬 Ask me about Test Engineering, Test Automation, Test Framework Development, Test Case and Test Data Enumeration, Problem Solving. 
-- 📲 Ring me @:   +91 7010873421 / 9566434530 <br>
-- 📧 Drop me @:   kishorethiru10@gmail.com <br>
+- :telephone_receiver: Ring me @   +91 7010873421 / 9566434530 <br>
+- 📧 Drop me @   kishorethiru10@gmail.com <br>
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: loves to binge-watch movies and tv shows, Foodie, Trying to wake before 6 :wink:  
 
