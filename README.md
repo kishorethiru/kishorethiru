@@ -17,7 +17,7 @@
 
 ✔ Frond-End-Automation(UI)  - Selenium Webdriver with Java. <br>
 ✔ Back-End-Automation(API)  - Restful Automation with Postman, RestAssured.<br>
-✔ Programming Languages     - Java (7 & 8), Ruby.<br>
+✔ Programming Languages     - Java (7 & 8).<br>
 ✔ Dev-OPS-Automation        - Jenkins Pipelines, Github.<br>
 ✔ Unit test tools           - Junit, TestNG.<br>
 ✔ Data Structures           - String, Arrays, Stacks, Queues, LinkedList, List, Set, Map, Trees.<br>
