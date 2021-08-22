@@ -7,8 +7,9 @@
 - 🔭 I’m currently working on enhancing my problem-solving skills 
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 🤔 I’m looking for help with landing on a product organization as an <b>SDET</b> 
-- 💬 Ask me about Test Engineering, Test Automation, Test Framework Development, Test Case and Test Data Enumeration 
-- 📫 How to reach me: <br>   :calling:+91 7010873421 / 9566434530 <br>   :e-mail: kishorethiru10@gmail.com 
+- 💬 Ask me about Test Engineering, Test Automation, Test Framework Development, Test Case and Test Data Enumeration, Problem Solving. 
+- 📲 Ring me @:   +91 7010873421 / 9566434530 <br>
+- 📧 Drop me @:   kishorethiru10@gmail.com <br>
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: loves to binge-watch movies and tv shows, Foodie, Trying to wake before 6 :wink:  
 
@@ -27,7 +28,7 @@
 ✔ Source Control            - Perforce, GIT.<br>
 ✔ Manual Testing            - Integration testing, Test Case and Test Data Enumeration.<br>
 ✔ CI                        - Jenkins.<br>
-✔ Others                    - Basic SQL commands,Design Patterns, Agile Methodology, Test Methodologies.<br>
+✔ Others                    - Basic SQL commands, Design Patterns, Agile Methodology, Test Methodologies.<br>
 
 ### Reach me at,<a href="https://www.linkedin.com/in/kishorekumar-sdet/" rel="nofollow noreferrer">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> &nbsp;
    
