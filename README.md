@@ -28,7 +28,8 @@
 ✔ Source Control            - Perforce, GIT.<br>
 ✔ Manual Testing            - Integration testing, Test Case and Test Data Enumeration.<br>
 ✔ CI                        - Jenkins.<br>
-✔ Others                    - Basic SQL commands, Design Patterns, Agile Methodology, Test Methodologies.<br>
+✔ Others                    - AWS Basics, Basic SQL commands, Design Patterns, Agile Methodology, Test Methodologies.<br>
+
 
 ### Reach me at,<a href="https://www.linkedin.com/in/kishorekumar-sdet/" rel="nofollow noreferrer">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> &nbsp;
    
