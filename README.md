@@ -28,6 +28,7 @@
 ✔ Source Control            - Perforce, GIT.<br>
 ✔ Manual Testing            - Integration testing, Test Case and Test Data Enumeration.<br>
 ✔ CI                        - Jenkins.<br>
+✔ Development Process       - Agile Scrum Framework<br>
 ✔ Others                    - AWS Basics, Basic SQL commands, Design Patterns, Agile Methodology, Test Methodologies.<br>
 
 
